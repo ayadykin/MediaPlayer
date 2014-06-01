@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ayadykin.mediaplayer.MainActivity" >
+
+    <item
+        android:id="@+id/open_folder"
+        android:title="@string/open_folder_menu"/>
+    <item
+        android:id="@+id/change_orientation"
+        android:title="@string/change_orientation"/>
+    <item
+        android:id="@+id/settings"
+        android:title="@string/settings"/>
+
+</menu>

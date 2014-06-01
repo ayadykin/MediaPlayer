@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+     >
+
+    <TextView
+        android:id="@+id/soundTitleText"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:layout_weight="1"      
+        android:gravity="center_horizontal|left"
+        android:text="@string/sound_title"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/soundArtistText"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:layout_weight="1"
+        android:gravity="center_horizontal"
+        android:text="@string/sound_artist"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/soundAlbumText"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:layout_weight="1"
+        android:gravity="center_horizontal"
+        android:text="@string/sound_album"
+        android:textSize="12sp" />
+
+</LinearLayout>

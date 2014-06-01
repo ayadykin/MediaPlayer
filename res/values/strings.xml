@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MediaPlayer</string>
+    <string name="open_folder_menu">Open folder</string>
+    <string name="settings">Settings</string>
+    <string name="folder_icon">Folder</string>
+    <string name="sound_title">Title</string>
+    <string name="sound_artist">Artist</string>
+    <string name="sound_album">Album</string>
+    <string name="add_to_playlist">Add to playlist</string>
+    <string name="play_mode">play_mode</string>
+    <string name="current_dir">Current Directory: </string>
+    <string name="parent_dir">Parent Directory </string>
+    <string name="reset_search">Reset search</string>
+    <string name="show_all_media">Show all media</string>
+	<string name="change_orientation">Change orientation</string>
+</resources>
