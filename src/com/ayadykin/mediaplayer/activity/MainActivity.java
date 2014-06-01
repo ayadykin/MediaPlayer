@@ -31,7 +31,7 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 
-		//Git test
+		//Git test second  one
 		// Choose source for activity start
 		PreferenceUtils utils = new PreferenceUtils(this);
 		Bundle args = new Bundle();
